@@ -5,6 +5,7 @@ import sys
 a=input()
 print(a)
 ```
+
 ```flow
 s=>start:Start
 op=>operation:op
